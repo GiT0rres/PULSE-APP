@@ -317,7 +317,7 @@ O vídeo apresenta o desenvolvimento e funcionamento do aplicativo, demonstrando
 ### ▶️ Assista à apresentação
 
 > 🔗 **Link do vídeo:**
-> **[COLE AQUI O LINK DO VÍDEO]**
+> **https://youtu.be/xLCG1RyRAPo**
 
 ### O vídeo demonstra:
 
